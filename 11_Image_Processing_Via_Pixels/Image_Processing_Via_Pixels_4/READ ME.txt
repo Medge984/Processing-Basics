@@ -1,0 +1,4 @@
+Now we have a ball class that creates a number of balls that move accross the screen.
+Just like in 'Image_Processing_Via_Pixels_3', each ellipse is assinged a colour value
+dependant on the pixel within the loaded image that has the same cartesian coordinate
+as the ellipse. 

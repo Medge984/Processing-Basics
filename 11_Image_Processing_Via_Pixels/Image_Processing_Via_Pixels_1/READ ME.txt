@@ -1,0 +1,11 @@
+Loads up an image from the 'data' folder. Loads each pixel from the image and
+seperates the r, g, b values into individual floats. Each pixel is then reconfigured
+with an altered colour function. In this particular example, each pixel has had their
+green and red values swapped, and the blue value has been doubled. 
+
+The pixels are then updated with their new configuration. 
+
+Note that the pixels are stored in an index, not as coordinates. In order to find the 
+respective coordinates of each pixel by looking at the index we use this formula;
+
+x + (y * width)
