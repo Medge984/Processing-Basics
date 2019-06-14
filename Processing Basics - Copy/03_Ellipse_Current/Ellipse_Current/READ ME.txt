@@ -1,0 +1,2 @@
+Draws 10 rows of ellipses that move to the right. 
+Each column of ellipses has random green and blue values assinged. 

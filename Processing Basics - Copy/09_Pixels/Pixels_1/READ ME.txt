@@ -1,0 +1,1 @@
+Using a for loop, each 7th pixel is assigned a random green value.

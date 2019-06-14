@@ -1,0 +1,1 @@
+Draws an ellipse with a random red value to the screen every frame.

@@ -1,0 +1,2 @@
+Simular to 'Pixels_2', except now the red value has been introduced and increses as
+the mouse's x coordinate increases. 

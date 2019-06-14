@@ -1,0 +1,3 @@
+Created a turtle function. 
+
+Used a while loop to call the turtle function multiple times and with varying positions. 

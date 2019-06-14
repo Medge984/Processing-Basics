@@ -1,0 +1,9 @@
+Continuing on from 'First Game 1'. 
+
+This next iteration has incuded far more variables that allow for more variety in the
+ellipses. There are now many variables that allow for great control over the colour. 
+
+There is now a box in which the ellipses are contained. This box dynamically changes
+to fit within the windows dimentions. 
+
+

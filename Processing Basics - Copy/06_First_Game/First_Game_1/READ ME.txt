@@ -1,0 +1,13 @@
+Simple game that populates multiple arrays with values. 
+
+These values are then used by ellipses that bounce around on the screen. For loops
+are used to determine which ellipse receives which value stored in each array. 
+
+If the mouse is pressed whilst within the perimiter of any of the ellipses, then the
+ellipse is transported off screen. 
+
+Any time an ellipse is clicked on, a set of simple equations calculate the 'points' 
+gained and add them to the users 'score' which is displayed on screen.
+
+If all balls have been sucessfully clicked on, 'Game Over' will be displayed on the 
+screen.

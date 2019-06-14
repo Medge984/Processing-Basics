@@ -1,0 +1,6 @@
+Creates an array of balloons that float up to the top of the screen and then stop 
+when they hit the ceiling. There are four balloons and each one has a chance to 
+spawn. 
+
+This is the first time I have used a class. In this sketch a class is created to 
+encapsulate the basic members that each balloon possesses. 

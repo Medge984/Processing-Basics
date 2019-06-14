@@ -1,0 +1,3 @@
+Using a for loop, every pixel is assigned a green and blue value depending on the 
+pixels cartesian coordinate. As the pixels x coordinate increases, so does the pixels, 
+green value. The same goes for the y value and the pixels blue coordinate. 

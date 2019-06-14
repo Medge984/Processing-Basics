@@ -1,0 +1,2 @@
+Simular to 'Particle Simulation 2', except now the particles are affected by every 
+side of the window. 

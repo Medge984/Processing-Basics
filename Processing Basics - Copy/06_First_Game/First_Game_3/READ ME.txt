@@ -1,0 +1,15 @@
+Following on from 'First Game 2'. 
+
+Even more variables have been applied to the code to allow for even greater variety.
+
+The 'Rainbow' algorithm has been implemented into the code and can be applied to the
+ellipses and the box. 
+
+There are now boxes that are placed between the ellipses and any text so that the text
+can be read more easily. 
+
+The box used with the score display dynamically changes as the score's number of 
+digits increases. 
+
+
+
