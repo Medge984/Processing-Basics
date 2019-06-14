@@ -1,0 +1,5 @@
+Each pixel has it's brightness compared with the pixel to the immediate right. If the 
+difference is greater than a certain threshold, then the pixel is given a white 
+value, otherwise the pixel is given a black value. 
+
+This essentially allows the program to "detect" edges along the x axis. 

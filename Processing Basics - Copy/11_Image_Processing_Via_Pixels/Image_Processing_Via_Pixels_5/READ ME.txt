@@ -1,0 +1,7 @@
+For this sketch I wanted to flip the image around the y-axis. In order to do this I 
+used pen and paper to design an equation that could take a pixels location and find 
+the location that mirrors it around y = width/2.
+
+The line of code in the sketch is this. 
+int flip = (width - (x + 1)) + (y * width);
+

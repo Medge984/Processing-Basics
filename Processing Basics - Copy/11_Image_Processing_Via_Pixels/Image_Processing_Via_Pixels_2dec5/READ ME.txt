@@ -1,0 +1,2 @@
+Just like 'Image_Processing_Via_Pixels_2', only now the pixel directly below is taken
+into consideration. This allows the program to 'detect' edges on the y axis. 

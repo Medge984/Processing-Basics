@@ -1,0 +1,6 @@
+The image in 'Image_Processing_Via_Pixels_1' is now being fed back throgh the system
+to create a new image. 
+
+This time ellipses are placed in random locations within the window, each ellipse is 
+then given a colour value which equates to the color value of the whichever pixel has
+the same cartesian coordiante as the ellipse. 
